@@ -2,15 +2,15 @@
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="Image" width="400" src="https://miro.medium.com/max/1400/1*KlNlGjWBb0mScNgnX9Uxjw.gif" />
 
-- 🌱 I’m Currently learning **React JS.**
+- 🌱 I’m Currently learning **React Native.**
 
 - 🌱 I love to make Clones to **Enhance my skill and Learn New Technologies.**
 
-- 🎨 I can design amazing layout using **CSS, Bootstrap.**
+- 🎨 I can design amazing layout using **CSS, SCSS, Tailwind, Bootstrap.**
 
-- 💻 I usually Create Websites using HTML, React Js, Redux and CSS.
+- 💻 I usually Create Websites and Apps using HTML, React Js, React Native, Redux and CSS.
 
-- 🚀 Built Multiple Clones using React, Redux.
+- 🚀 Built Multiple Clones using React, React Native, Redux.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
